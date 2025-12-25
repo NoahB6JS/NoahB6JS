@@ -4,10 +4,7 @@
 
 
 ## ⚡ About Me
-text
-💻 I'm a university student in England exploring coding, game dev & AI.
-🎮 Passionate about Flight Sim, Space Invaders remakes & indie game projects.
-🌐 Always learning new technologies and frameworks.
+
 
 
 <p align="center">
