@@ -15,7 +15,7 @@ Currently exploring **robotic automation** with the *Tinkercad Braccio Arduino a
 
 - I’m an undergraduate studying Computer Science & Artificial Intelligence.
   
-- Outside of academics, I’m an avid tennis player and _**the founder and Chair**_ of my university’s first-ever tennis club, which I launched in my first month and grew to 35+ members.
+- Outside of academics, I’m an avid tennis player and _**the founder and Chair**_ of my university’s first-ever tennis club, which I launched in my first month and grew to **35+ members**.
   
 ##  My Tools & Languages
 
