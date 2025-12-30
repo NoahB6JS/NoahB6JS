@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Noah Blanchard
+# Hi, I'm Noah Blanchard
 
 ### Aspiring Software Engineer | Interested in Robotics engineering | 
 
@@ -11,11 +11,13 @@ Currently exploring **robotic automation** with the *Tinkercad Braccio Arduino a
 [Tinkercad Braccio Arduino arm project](https://github.com/NoahB6JS/Ardiuno_robotic_arm)
 
 
-## ⚡ About Me
+##  About Me
 
----
-
-## 🛠 My Tools & Languages
+- I’m an undergraduate studying Computer Science & Artificial Intelligence.
+  
+- Outside of academics, I’m an avid tennis player and _**the founder and Chair**_ of my university’s first-ever tennis club, which I launched in my first month and grew to 35+ members.
+  
+##  My Tools & Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
