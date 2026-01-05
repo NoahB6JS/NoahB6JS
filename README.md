@@ -1,6 +1,6 @@
 # Hi, I'm Noah Blanchard
 
-### Aspiring Software Engineer | Interested in Robotics engineering | 
+### Aspiring Software Engineer | Interested in Robotics engineering | AI & Machine learning
 
 # Coding projects
 
